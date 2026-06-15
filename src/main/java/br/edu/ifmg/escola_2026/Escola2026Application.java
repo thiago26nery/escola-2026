@@ -1,5 +1,6 @@
 package br.edu.ifmg.escola_2026;
 
+import br.edu.ifmg.escola_2026.entities.Perfil;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
